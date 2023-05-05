@@ -1,0 +1,520 @@
+
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+p{
+margin:40;
+text-align:center;
+font-size:32;
+    }
+    p1{
+
+margin:40;
+        } 
+h2{
+    font-size:15px; 
+color:rgb(255,255,255);
+text-align:center;
+    } 
+img, video, audio {
+max-width:100%;
+} 
+nav ul {
+    list-style: none;
+    margin:20;
+    padding:0;
+    display: flex;
+    gap: 75px;
+   
+}
+nav a {
+    color: rgb(10, 12, 121);
+    text-decoration: none;
+    text-transform: uppercase;
+    
+}
+section.nav{
+text-align: center;
+}
+h5 {
+    gap: 87px;
+    
+}
+
+nav a:hover {
+    color: rgb(178, 202, 230);
+}
+div img {
+min-height: 600;
+}
+main, footer {
+    margin: auto;
+}
+
+header {
+    background-color:rgb(255,255,255);
+    margin: 0;
+    padding:5px;
+    display: right; 
+    justify-content:center;
+    align-items: right;
+    margin-bottom: -45;
+}
+header p {
+    color:darkblue;
+    text-align:left;
+    margin: 0;
+    padding: 0px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+header h2 {
+    font-size: 16px;
+    text-align:right;
+    margin-right: 70;
+    margin-top: -22;
+}
+header h3 {
+    font-size: 14px;
+    text-align:right;
+    margin-right: 30;
+    margin-top: 35;
+}
+header h4 {
+text-align: right;
+margin-right: -15;
+margin-top: -17;
+}
+header img{
+    
+    margin-top: -55;
+    margin-bottom: 20;
+    margin-right: 7;
+}
+section h1 {
+    text-align:center;
+    color: #fff;
+    font-size: 50px;
+    margin-top:1;
+}
+section.hero {
+    background-color: rgb(14,34,87);
+    padding:0px 0 0px 0;
+    border-radius: 0px 0px 0 0;
+    margin-top: 0px;
+    height:150;
+}
+
+
+section.card {
+    background-color: #fff;
+    padding: 120px;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    gap: 70px; 
+    border-radius: 40px 40px 40px 40px;
+
+}
+
+section.card h3, section.card p {
+    margin: 40;
+    font-size: 18px;
+}
+
+
+section.card h3 {
+    margin-top:80px;
+    text-align: center;
+    margin-bottom: -20;
+}
+
+section.card p {
+    margin-bottom: 10px;
+    color: #666;
+}
+
+section.card div {
+    
+    border-radius: 40px 40px 40px 40px;
+}
+p7{
+    color:grey;
+    gap:200;
+    margin-left: 22%;
+}
+p8{
+margin-left: 32%;
+}
+
+section.card img {
+    height:10%;
+    object-fit: cover;
+    width: 100%;
+    border-radius: 40px 40px 40px 40px;
+}
+
+footer {
+    background-color:rgb(14,34,87);
+    margin-top: 30px;
+
+}
+footer p1 {
+    color:#fff;
+margin-left: 0;
+
+}
+footer p2 {
+    margin-left: 5%;
+    color:#fff;
+}
+footer p3 {
+    color:#fff;
+    float: left;
+    margin-top: 80;
+    margin-left: 10;
+}  
+footer p4{
+    color:#fff;
+    float:right;
+    margin-right:7%;
+}     
+footer div{
+    margin:30;
+    color:#fff;
+} 
+footer p5{
+    color:#fff;
+display:grid;
+
+float:right;
+    margin-right:8%;
+    
+    margin-left: 1400;
+    padding-bottom: 170;
+    
+    margin-top: -180;
+    padding: 20;
+}
+footer p6 {
+    color:#fff;
+    float:left;
+    display:grid;
+    grid-template-columns: 1fr;
+    margin-top: 20;
+}
+footer p7 {
+    float:left;
+    display:grid;
+    margin-top: 100;
+    margin-left: -53;
+   
+}
+footer p8 {
+float:left;
+margin-top: 130;
+margin-left: -54;
+}
+footer h5 {
+    color:#fff;
+    font-size: 13px;
+    margin-left: 40;
+  
+    
+} 
+footer p {
+    color:#fff;
+    font-size: 16px;
+    color: #666;
+    text-align: center;
+}
+footer img{
+    margin-top: 10;
+    margin-left: 17;
+    
+}
+footer h8 {
+    color:#fff;
+    margin-top: 200;
+    margin-left: 5;
+    font-size: 12;
+    float:left;
+}
+
+footer p9{
+margin-left: 1240;
+margin-right: 20;
+margin-top: 30;
+margin-bottom: 300;
+}
+footer p10{
+    margin-left: 1240;
+    margin-top: 50;
+    padding-top: 300;
+}
+footer{
+    height:485;
+    
+}
+footer p5{
+    color:#fff;
+display:grid;
+float:right;
+    margin-right:8%;
+    
+    margin-left: 1420;
+    padding-bottom: 170;
+    
+    margin-top: -180;
+}
+h8{
+font-size: 14;
+}
+ p11{
+    float:right;
+   margin-top: -280;
+   margin-right:350;
+   
+}
+a{
+color:#fff;
+}
+ p12{
+color:white;
+  }  
+p13{
+    color:white;
+margin-left:600;
+    } 
+    @media (max-width: 800px) { 
+        header{
+    height:65;
+        }
+        header h2{
+            margin-top:-20;
+    font-size: 15;
+        }
+        header h3{
+            height: 24;
+            margin-top: 34;
+            }
+            header h4{
+                height: 25;
+    
+    margin-top: -40;
+            }
+        header p{
+         font-size: 15px;
+    
+        }
+        p{
+            font-size:13; 
+        }
+        section.card { 
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+        padding: 50;
+    
+        }
+        section.card img{
+            width:100%;
+           
+        }
+        footer p5{
+            font-size: 12px;
+           margin-top:-170;
+        }
+        footer p1{
+            font-size: 12px;
+            margin-left: 28;
+        }
+        footer p3{
+            font-size:12px;
+        }
+        footer h5{
+            font-size: 12px;
+            margin-left: 130 ;
+        }
+        footer p6{
+            width:22;
+            margin-top: 13;
+    
+        }
+        footer p7{
+            width:25;
+            margin-top: 95;
+            margin-left: -25;
+        }
+        footer p8{
+            width:25;
+            margin-top: 125;
+            margin-left: -25;
+        }
+        footer h8{
+            font-size: 10;
+        }
+        section.hero h1{
+            font-size: 40;
+        }
+        section.hero h2{
+            font-size:12;
+        }
+        footer{
+            height:500;
+        }
+    }
+    @media (max-width: 550px) { 
+        header{
+            height:10;
+                }
+                header h2{
+                    margin-top:-15;
+            font-size: 10;
+                }
+                header h3{
+                    height: 15;
+                    margin-top: 40;
+                    }
+                    header h4{
+                        height: 15;
+            
+            margin-top: -28;
+                    }
+                   
+                header p{
+                 font-size: 10px;
+            
+                }
+                
+                section.card { 
+                    display: grid;
+                    grid-template-columns: 1fr ;
+                padding: 50;
+            
+                }
+                section.card img{
+                    width:100%;
+                   
+                }
+                footer p5{
+                    font-size: 10px;
+                   float:right;
+                   margin-top:-160;
+                }
+                footer p1{
+                    font-size: 10px;
+                    margin-left: 40;
+                }
+                footer p3{
+                    font-size:10px;
+                }
+                footer h5{
+                    font-size: 10px;
+                    margin-left: 130 ;
+                }
+                footer p6{
+                    width:22;
+                    margin-top: 13;
+            
+                }
+                footer p7{
+                    width:25;
+                    margin-top: 95;
+                    margin-left: -25;
+                }
+                footer p8{
+                    width:25;
+                    margin-top: 125;
+                    margin-left: -25;
+                }
+                footer h8{
+                    font-size: 10;
+                }
+                section.hero h1{
+                    font-size: 45;
+                }
+    }
+    @media (max-width: 400px) { 
+        header{
+            height:6;
+                }
+                header h2{
+                    margin-top:-8;
+            font-size: 6;
+                }
+                header img {
+                    width:20;
+                    
+                }
+                header h3{
+                    height: 10;
+                    margin-top: 46;
+                }
+                   header h4{
+                    margin-right: 6;
+                    margin-top: -25;
+                   }
+                header p{
+                 font-size: 6px;
+            
+                }
+                
+                section.card { 
+                    display: grid;
+                    grid-template-columns: 1fr ;
+                padding: 50;
+            
+                }
+                section.card img{
+                    width:100%;
+                   
+                }
+                footer p5{
+                    font-size: 7px;
+                   float:right;
+                   margin-top:-130;
+                }
+                footer p1{
+                    font-size: 7px;
+                    margin-left: 20;
+                }
+                footer p3{
+                    font-size:7px;
+                }
+                footer h5{
+                    font-size: 7px;
+                    margin-left: 92 ;
+                }
+                footer p6{
+                    width:10;
+                    margin-top: 5;
+            
+                }
+                footer p7{
+                    width:22;
+                    margin-top: 66;
+                    margin-left: -13;
+                }
+                footer p8{
+                    width:22;
+                    margin-top: 92;
+                    margin-left: -21;
+                }
+                footer h8{
+                    font-size: 6;
+                }
+                footer{
+                    height:500;
+                }
+                section.hero h1{
+                    font-size: 40;
+                }
+    
+    
+    }
